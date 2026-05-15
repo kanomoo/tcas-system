@@ -56,7 +56,7 @@ def course_info(): # menu input course_info
                 setting_university()
             case "2":
                 all_course_info()
-            case "3": 
+            case "3":
                 report_course()
             case "4":
                 break
